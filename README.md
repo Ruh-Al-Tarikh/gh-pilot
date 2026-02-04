@@ -1,5 +1,4 @@
-GitHub Copilot in the CLI will be deprecated on October 25, 2025 in favor of [GitHub Copilot CLI](https://github.com/github/copilot-cli), an agentic assistant that brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's Copilot coding agent, it provides intelligent assistance while staying deeply integrated with your GitHub workflow. We suggest migrating to this tool, which in addition to explaining and suggesting shell commands can do a whole lot more!
-
+GitHub Copilot in the CLI has been deprecated on October 25, 2025 in favor of [GitHub Copilot CLI](https://github.com/github/copilot-cli), an agentic assistant that brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's [Copilot coding agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent), it provides intelligent assistance while staying deeply integrated with your GitHub workflow. We suggest migrating to the GitHub Copilot CLI, which can explain and suggest shell commands and much more!
 
 # GitHub Copilot in the CLI
 
