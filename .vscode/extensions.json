@@ -2,6 +2,11 @@
     "recommendations": [
         "marcovr.actions-shell-scripts",
         "tlaplus.vscode-ide",
-        "ryohidaka.github-actions-branding-preview"
+        "ryohidaka.github-actions-branding-preview",
+        "artificial.artificial-debug-extension",
+        "saikatdas.output-formatter",
+        "idl.idl-for-vscode",
+        "huangshao.console-manager",
+        "denoland.vscode-deno"
     ]
 }
